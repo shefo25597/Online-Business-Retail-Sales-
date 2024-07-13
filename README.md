@@ -8,8 +8,6 @@ About Dataset:
 The datasets are from 'online retail sales'. Unfortunately, they have had to cut back from 25 employees to 5 because of the economic downturn with the corona virus.
 Lets help them out with some informative kernels and visualizations! Anything and everything helps!
 
-##################
-
 Project Analysis:
 ---
 
